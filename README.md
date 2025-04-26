@@ -6,4 +6,4 @@ Mathematics, BA Expected in 2027
 Italian, Minor Expected in 2027
 
 ### Projects
-Applying Quantum Gravity Approaches in a Mixed Quantum-Classical System
+[Applying Quantum Gravity Approaches in a Mixed Quantum-Classical System] (https://github.com/ralph-tyrell/healed-sc-sim)
