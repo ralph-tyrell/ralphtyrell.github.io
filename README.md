@@ -3,7 +3,8 @@
 ### Education
 - BS in Chemistry _Expected in 2027_
 - BA in Mathematics _Expected in 2027_
-- Minor in Italian _Minor Expected in 2027_
+- Minor in Italian _Expected in 2027_
 
 ### Projects
 [Applying Quantum Gravity Approaches in a Mixed Quantum-Classical System](https://github.com/ralph-tyrell/healed-sc-sim)
+
