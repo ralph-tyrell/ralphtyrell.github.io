@@ -1,5 +1,8 @@
 # Undergraduate Student interested in Computational Chemistry
 
+### About Me
+Hi! My name is Ralph Tyrell.  I'm currently studying abroad in Italy, and my research interests lie in the intersections between math and physical chemistry.
+
 ### Education
 - BS in Chemistry _Expected in 2027_
 - BA in Mathematics _Expected in 2027_
